@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node name="main_service" pkg="main_service" type="main_service.py" />
+</launch>
